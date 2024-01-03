@@ -35,7 +35,7 @@ This project provides a comprehensive platform for training RVC models and gener
 4. Install the required packages with the command `pip install -r requirements.txt`.
 5. Run the streamlit app with the command `streamlit run Home.py`.
 
-Or run it in [Google Colab](https://colab.research.google.com/github/SayanoAI/RVC-Studio/blob/master/RVC_Studio.ipynb)
+Or run it in [Google Colab](https://colab.research.google.com/drive/1lHzUaka9iKgfQO-7Cspb1zYmuTkQIL8R)
 
 ## Instructions for Inference page
 1. Download all the required models on the webui page or here: https://huggingface.co/datasets/SayanoAI/RVC-Studio/tree/main
