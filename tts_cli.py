@@ -83,7 +83,7 @@ def __tacotron2__(text, device="cpu"):
     # return as numpy array
     return remix_audio((speech, 22050),target_sr=16000,to_mono=True,norm=True)
 
-def __edge__(text, speaker="en-US-JennyNeural"):
+def __edge__(text, speaker="ru-RU-DmitryNeural"):
     import edge_tts
     import asyncio
     from threading import Thread
